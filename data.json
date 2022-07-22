@@ -1,0 +1,233 @@
+{
+  "user": {
+    "name": "Pratham Jain",
+    "email": "prathamjainyt@gmail.com",
+    "title": "Final Year Student",
+    "phone": "+91 7566115050",
+    "tagline": "Final Year Undergrad at JIIT Noida pursuing B.Tech in Computer Science and Engineering. I am a self-motivated person and an enthusiastic learner with a passion to explore and learn new things. I have a strong foundational knowledge of Data Structures & Algorithms and their implementation. Looking to start a career as a Software Engineer in an organisation where I can effectively contribute and enhance my skill.",
+    "social": [
+      {
+        "name": "GitHub",
+        "link": "https://www.github.com/iprathamjain",
+        "icon": "/images/github.svg"
+      },
+      {
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/iprathamjain",
+        "icon": "/images/linkedin.svg"
+      }
+    ]
+  },
+  "experience": {
+    "summary": "I have experience working in different types of environments from face-paced startups to mid-sized companies. I have worked with a diverse set of technologies to both develop and deploy web/mobile software.",
+    "jobs": [
+      {
+        "title": "InHouse Intern",
+        "companyName": "JIIT, Noida",
+        "shortDescription": "Worked as Full Stack intern and developed a full stack project under the guidance of Dr. Kavita Pandey in summer.",
+        "startDate": "June 2022",
+        "endDate": "July 2022",
+        "skills": [
+          {
+            "name": "React",
+            "icon": "/images/react.svg"
+          },
+          {
+            "name": "Mongo DB",
+            "icon": "/images/mongo.svg"
+          },
+          {
+            "name": "HTML/CSS",
+            "icon": "/images/html.svg"
+          }
+        ]
+      },
+      {
+        "title": "Technical Content Writer",
+        "companyName": "Neso Academy",
+        "shortDescription": "Worked as a technical content writer and subject matter expert with NESO Academy Youtube channel with over 1.5M subscriber. Written more than 100+ article on Computer Networks subject.",
+        "startDate": "Dec 2020",
+        "endDate": "Feb 2022",
+        "skills": [
+          {
+            "name": "CN",
+            "icon": "/images/cn.png"
+          }
+        ]
+      },
+      {
+        "title": "Computer Science Subject Expert",
+        "companyName": "Chegg",
+        "shortDescription": "Worked as a Computer Science subject matter expert with Chegg Inc. where my task was to solve doubts of students related to Data Structure and Algorithms and languages. Solved more than 100+ doubts of students from all around the world with 90% upvotes.",
+        "startDate": "Jan 2021",
+        "endDate": "Jan 2022",
+        "skills": [
+          {
+            "name": "DSA",
+            "icon": "/images/dsa.png"
+          },
+          {
+            "name": "CPP",
+            "icon": "/images/cpp.png"
+          }
+        ]
+      }
+    ]
+  },
+  "education": {
+    "summary": "",
+    "degrees": [
+      
+      {
+        "name": "Jaypee Institute of Information Technology",
+        "degree": "Bachelor of Technology in Computer Science",
+        "startDate": "Aug 2019",
+        "endDate": "Present",
+        "location": "Noida, India"
+      },
+      {
+        "name": "Rishikul Vidya Mandir School",
+        "degree": "Class 12th",
+        "startDate": "Apr 2017",
+        "endDate": "May 2018",
+        "location": "Khargone, India"
+      }
+
+    ]
+  },
+  "projects": {
+    "summary": "I have a Bacehlor's in Computer Science and a Master's in Software Engineering. During the course of my academics I have built many projects and done a handful of internships.",
+    "projects": [
+      {
+        "name": "MediSecure",
+        "description": "Medical application for Health Records Management built on the top of Blockchain in which doctor and patient can interact with each other, where the complete data is secured and stored on blockchain. Built using React and Solitdity.",
+        "github": "https://github.com/iprathamjain/MediSecure",
+        "link": "https://youtu.be/FYWpQ5r9M_k"
+      },
+      {
+        "name": "Blog App",
+        "description": "Blog App is a Featured Blog Post Application to Create, Edit, Delete posts. In this app Markdown is also integrated to write a beautiful blog with pictures, links, and gif support. It also have authentication builtin. Made using React, MongoDB, and EJS.",
+        "github": "https://github.com/iprathamjain/Classy-Blog-App",
+        "link": "https://bolgapp.herokuapp.com/"
+      },
+      {
+        "name": "Book Store",
+        "description": "A classical book store with different books listed on it. It has authentication feature. Also user have different option to place order like COD and online payment. It has a dedicated admin portal and online payment integrated in it. Built using Node, Express, MongoDB.",
+        "github": "https://github.com/iprathamjain/Book-Store-web-app",
+        "link": "https://webbookstoreapp.herokuapp.com/"
+      },
+      {
+        "name": "Kanban Board",
+        "description": "A MERN based Kanban App to help visualize work and workflow, as well as optimize the way work gets done. It uses MongoDB and JWT authentication which equips this app with a cloud-based NoSQL database and secure authentication methods.",
+        "github": "https://github.com/iprathamjain/Kanban-Board",
+        "link": "https://kanban-board-mern.herokuapp.com/"
+      },
+      {
+        "name": "Algo Visualizer",
+        "description": "A super simple and super cool sort visualizing app created purely in HTML, CSS and JavaScript.",
+        "github": "https://github.com/iprathamjain/Sort-Visualizer-Main",
+        "link": "https://iprathamjain.github.io/Sort-Visualizer-Main/"
+      },
+      {
+        "name": "Chat Application",
+        "description": "Chat application where users can join using room code and chat with each other. Built on top of socket.io using HTML, CSS, JS, and React.",
+        "github": "https://github.com/iprathamjain/Chat-Application-using-Socket-Programming",
+        "link": "https://hopeful-ramanujan-398dd6.netlify.app/"
+      },
+      {
+        "name": "Crypto Tracker",
+        "description": "A react based crypto app which list various cryptocurrencies with its latest prices fetched directly with the usi of API. It also displays information about a particular and and show its historical price chart.",
+        "github": "https://github.com/iprathamjain/CrytoTracker",
+        "link": "https://cryptotrackerpj.netlify.app/"
+      },
+      {
+        "name": "Code Along",
+        "description": "It is a live code sharing platform built using Node.js, Express, React, and Socket.io. Users can join different rooms and code together with their partners and compile their code.",
+        "github": "https://github.com/iprathamjain/Code-Together-Webapp",
+        "link": "https://codealong-frontend.herokuapp.com/"
+      },
+      {
+        "name": "AutoMobile-Price-Prediction",
+        "description": "A Machine Learning webapp which predict the resale value of used vehicles.",
+        "github": "https://github.com/iprathamjain/Vehicle-Price-Prediction",
+        "link": "https://automobilepricepred.herokuapp.com/"
+      },
+      {
+        "name": "Snake-Game",
+        "description": "A basic snake game made using JS.",
+        "github": "https://github.com/iprathamjain/Snake-Game",
+        "link": "https://iprathamjain.github.io/Snake-Game/"
+      },
+      
+      
+      
+      {
+        "name": "Spending Analyzer",
+        "description": "An interactive web App for maintaining monthly budget. Built using JS.",
+        "github": "https://github.com/iprathamjain/Spending-Analyzer",
+        "link": "https://iprathamjain.github.io/Spending-Analyzer/"
+      },
+      {
+        "name": "Daily Newspapper",
+        "description": "It uses Hacker News Api for getting the recent news of the day. The UI is designed in the way so that it resembles with the traditional newspaper. Get the finest news of the day. Built using React, HTML and CSS.",
+        "github": "https://github.com/iprathamjain/Daily-Newspapper-",
+        "link": "https://ds-dailynewspaper.herokuapp.com/"
+      },
+      {
+        "name": "RGB color game",
+        "description": "A basic TODO application implemented using JS and firebase.",
+        "github": "https://github.com/iprathamjain/ToDo-app",
+        "link": "https://iprathamjain.github.io/ToDo-app/"
+      },
+      {
+        "name": "QR code generator",
+        "description": "An interactive QR code generator web App built using JS, React and QR library.",
+        "github": "https://github.com/iprathamjain/QR-Code-Generator-WebApp",
+        "link": "https://qr-code-generator-web-app.vercel.app/"
+      }
+      
+    ]
+  },
+  "skills": {
+    "items": [
+      {
+        "name": "DSA",
+        "icon": "/images/dsa.png"
+      },
+      {
+        "name": "C++",
+        "icon": "/images/cpp.png"
+      },
+      {
+        "name": "Java",
+        "icon": "/images/java.svg"
+      },
+      {
+        "name": "Python",
+        "icon": "/images/python.png"
+      },
+      {
+        "name": "JavaScript",
+        "icon": "/images/javascript.svg"
+      },
+      {
+        "name": "HTML/CSS",
+        "icon": "/images/html.svg"
+      },
+      {
+        "name": "React",
+        "icon": "/images/react.svg"
+      },
+      {
+        "name": "Node.js",
+        "icon": "/images/nodejs.svg"
+      },
+      
+      {
+        "name": "SQL",
+        "icon": "/images/database.svg"
+      }
+      
+    ]
+  }
+}
