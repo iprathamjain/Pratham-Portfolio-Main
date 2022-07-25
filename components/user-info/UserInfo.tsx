@@ -14,7 +14,7 @@ export const UserInfo: FC<UserInfoProps> = ({ info }) => {
     // document
     //   .getElementById("contact-me")
     //   .scrollIntoView({ behavior: "smooth" });
-    window.open("/images/pr.pdf", '_blank');
+    window.open("/images/PrathamJain_Resume.pdf", '_blank');
   };
 
   return (
