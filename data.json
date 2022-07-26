@@ -227,6 +227,10 @@
         "icon": "/images/expressjs.svg"
       },
       {
+        "name": "MongoDB",
+        "icon": "/images/mongo.svg"
+      },
+      {
         "name": "SQL",
         "icon": "/images/database.svg"
       }
