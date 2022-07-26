@@ -222,7 +222,10 @@
         "name": "Node.js",
         "icon": "/images/nodejs.svg"
       },
-      
+      {
+        "name": "Express.js",
+        "icon": "/images/expressjs.svg"
+      },
       {
         "name": "SQL",
         "icon": "/images/database.svg"
