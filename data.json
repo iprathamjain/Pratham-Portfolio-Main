@@ -227,6 +227,10 @@
         "icon": "/images/expressjs.svg"
       },
       {
+        "name": "Solidity",
+        "icon": "/images/solidity.svg"
+      },
+      {
         "name": "MongoDB",
         "icon": "/images/mongo.svg"
       },
